@@ -9,4 +9,8 @@ We are interested in researching investment opportunities in green energy. Using
 In 2018, only two stocks had a positive return: ENPH and RUN.
 
 ![2018 Stock Returns](Stocks_2018.png)
+
+## Code Refactoring
+
+![2018 Stock Returns Refactored](Resources/Stocks_Refactored_2018.png)
  
