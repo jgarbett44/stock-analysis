@@ -6,9 +6,17 @@ We are interested in researching investment opportunities in green energy. Using
 
 ## Results
 
+In 2017, Only one stock had a negative return: TERP
+
+![2017 Stock Returns](Resources/AllStocks2017.png)
+
 In 2018, only two stocks had a positive return: ENPH and RUN.
 
 ![2018 Stock Returns](Resources/Stocks_2018.png)
+
+## Conclusion
+
+Stock prices are volatile; a good year may be followed by a bad one. More data is needed to draw any conclusions.
 
 ## Code Refactoring
 
