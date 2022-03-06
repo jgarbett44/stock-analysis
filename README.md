@@ -12,5 +12,7 @@ In 2018, only two stocks had a positive return: ENPH and RUN.
 
 ## Code Refactoring
 
+After refactoring the code, it ran more quickly
+
 ![2018 Stock Returns Refactored](Resources/Stocks_Refactored_2018.png)
- 
+![2018 Stock Returns Refactored](Resources/AllStocksAnalysis_2018.png)
