@@ -6,7 +6,7 @@ We are interested in researching investment opportunities in green energy. Using
 
 ## Results
 
-In 2017, Only one stock had a negative return: TERP
+In 2017, only one stock had a negative return: TERP
 
 ![2017 Stock Returns](Resources/AllStocks2017.png)
 
